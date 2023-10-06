@@ -1,0 +1,31 @@
+digraph "PzG::LaczeDoGNUPlota::LaczeDoGNUPlota"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PzG::LaczeDoGNUPlota\l::LaczeDoGNUPlota",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PzG::LaczeDoGNUPlota\l::UstawRotacjeXZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#ac48fed259e4ebf93072e3111264c9433",tooltip="Ustawia rotację wokół osi OX i OZ."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PzG::LaczeDoGNUPlota\l::ZapiszUstawienieRotacjiISkali",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#aa92b463e8cbae31b50dd797a4183bce8",tooltip="Tworzy polecenie ustawiające punkt obserwacji."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PzG::LaczeDoGNUPlota\l::RotacjaX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#addf0b844f626f3f5220de70efcbbdbb3",tooltip="Wartość kąta rotacji względem osi OX."];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PzG::LaczeDoGNUPlota\l::RotacjaZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a9dac73754fab10644b287756003e9c79",tooltip="Wartość kąta rotacji względem osi OZ."];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PzG::LaczeDoGNUPlota\l::SkalaX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a4b1eb252fd785a5aeff938e7b2dce2b1",tooltip="Udostępnia skalę dla osi OX."];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="PzG::LaczeDoGNUPlota\l::SkalaZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a44f922ccbc508d6cd7809c669238dae3",tooltip="Udostępnia skalę dla osi OZ."];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="PzG::LaczeDoGNUPlota\l::UstawSkaleXZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a4308151b54e105d302803146a3238699",tooltip="Zadaje skalę wzdłuż osi OX i OZ."];
+  Node8 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="PzG::LaczeDoGNUPlota\l::UstawZakresX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a9c91987dfc869d6fcea96205c581daef",tooltip="Ustawia zakres osi OX."];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="PzG::LaczeDoGNUPlota\l::UstawZakresY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a54c6e9cf9ab2eae479451fd953c2717c",tooltip="Ustawia zakres osi OY."];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="PzG::LaczeDoGNUPlota\l::UstawZakresZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a1dbbb2b86fb13b8632e6bad9df2a82e3",tooltip="Ustawia zakres osi OZ."];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="PzG::LaczeDoGNUPlota\l::WyswietlajKomunikatyBledow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a409f4f4ba52b2b246d5695daef12167d",tooltip="Zezwala lub zabrania wyświetlania komunikatów."];
+}
