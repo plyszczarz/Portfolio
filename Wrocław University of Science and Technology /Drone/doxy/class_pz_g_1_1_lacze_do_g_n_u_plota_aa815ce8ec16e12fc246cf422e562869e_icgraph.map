@@ -1,0 +1,12 @@
+<map id="PzG::LaczeDoGNUPlota::DodajNazwePliku" name="PzG::LaczeDoGNUPlota::DodajNazwePliku">
+<area shape="rect" id="node1" title="Dodaje nazwę pliku." alt="" coords="620,183,793,225"/>
+<area shape="rect" id="node2" href="$classscene.html#a0bfc55d33f05831bd2e1e89d698b51f8" title="Function which adds a obstacle RidgeHill." alt="" coords="141,5,271,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,132,60,159"/>
+<area shape="rect" id="node4" href="$classscene.html#afb2b78b3ac2e673f3db43fcb2a19ee56" title="Function which adds a obstacle SharpTopHill." alt="" coords="141,107,271,133"/>
+<area shape="rect" id="node5" href="$classscene.html#a2caf89720d53b2a26690b484e74bf181" title="Function which adds a obstacle TableLand." alt="" coords="143,157,269,184"/>
+<area shape="rect" id="node6" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#ab3286408bb2ca5c5382e721b40d07f4f" title="Dodaje nazwę pliku." alt="" coords="352,208,572,264"/>
+<area shape="rect" id="node7" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a5d53870de4161dd855b327b3f5d1df9c" title="Dodaje nazwę pliku." alt="" coords="361,289,563,330"/>
+<area shape="rect" id="node8" href="$classscene.html#a11b0413539c9b1ccd7a4d38c454402e5" title="Function that creates a fly&#45;way of a drone." alt="" coords="365,355,559,381"/>
+<area shape="rect" id="node9" href="$classscene.html#a3384a11bbf9c266d4ed12648fe553115" title="Function that checks if drone coolide and makes additional flights and way&#45;drawings due to the result..." alt="" coords="383,405,541,432"/>
+<area shape="rect" id="node10" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="108,368,304,395"/>
+</map>
