@@ -1,0 +1,12 @@
+<map id="PzG::LaczeDoGNUPlota::Ymax" name="PzG::LaczeDoGNUPlota::Ymax">
+<area shape="rect" id="node1" title="Górną wartość zakresu dla osi OY." alt="" coords="1581,43,1755,84"/>
+<area shape="rect" id="node2" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a4579aecf7b4777fdde0cae4e98c275c2" title="Tworzy polecenie ustawiające zakres dla danej współrzędnej." alt="" coords="1335,43,1533,84"/>
+<area shape="rect" id="node3" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#add41e4bb92ccf9991b1cb15699f8c3d6" title="Tworzy preambułę poprzedzającą polecenie rysowania w trybie 2D." alt="" coords="1113,10,1287,51"/>
+<area shape="rect" id="node10" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#ae3b2f34035fdfbbcab696057022341ab" title="Tworzy preambułę poprzedzającą polecenie rysowania w trybie 3D." alt="" coords="1113,75,1287,116"/>
+<area shape="rect" id="node4" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a087d906ddd4b2e3db32ef61ce4cd5e60" title="Tworzy preambułę poprzedzającą polecenie rysowania." alt="" coords="795,43,1065,84"/>
+<area shape="rect" id="node5" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota." alt="" coords="573,43,747,84"/>
+<area shape="rect" id="node6" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="108,25,304,52"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,50,60,77"/>
+<area shape="rect" id="node8" href="$classscene.html#a3384a11bbf9c266d4ed12648fe553115" title="Function that checks if drone coolide and makes additional flights and way&#45;drawings due to the result..." alt="" coords="359,25,518,52"/>
+<area shape="rect" id="node9" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#aacb7ae45d283c741fb330f27b132e1a3" title="Generuje polecenie rysowania do pliku i przesyła je do gnuplota." alt="" coords="352,127,525,168"/>
+</map>

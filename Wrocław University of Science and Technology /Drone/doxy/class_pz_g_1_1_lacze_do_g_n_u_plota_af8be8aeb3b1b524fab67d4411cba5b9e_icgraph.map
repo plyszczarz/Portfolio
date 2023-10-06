@@ -1,0 +1,9 @@
+<map id="PzG::LaczeDoGNUPlota::CzyPolaczenieJestZainicjowane" name="PzG::LaczeDoGNUPlota::CzyPolaczenieJestZainicjowane">
+<area shape="rect" id="node1" title="Informuje, czy połączenie z gnuplot&#39;em jest zainicjalizowane." alt="" coords="1016,72,1251,114"/>
+<area shape="rect" id="node2" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a200ce6bdb980c314a9eafe49e8f2dd5e" title="Inicjalizuje połączenie z programem gnuplot." alt="" coords="795,14,968,55"/>
+<area shape="rect" id="node4" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota." alt="" coords="573,131,747,172"/>
+<area shape="rect" id="node7" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#aacb7ae45d283c741fb330f27b132e1a3" title="Generuje polecenie rysowania do pliku i przesyła je do gnuplota." alt="" coords="352,30,525,71"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,96,60,122"/>
+<area shape="rect" id="node5" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="108,146,304,173"/>
+<area shape="rect" id="node6" href="$classscene.html#a3384a11bbf9c266d4ed12648fe553115" title="Function that checks if drone coolide and makes additional flights and way&#45;drawings due to the result..." alt="" coords="359,197,518,224"/>
+</map>
