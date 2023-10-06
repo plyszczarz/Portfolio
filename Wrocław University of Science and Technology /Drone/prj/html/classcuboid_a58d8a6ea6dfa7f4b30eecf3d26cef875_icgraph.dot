@@ -1,0 +1,20 @@
+digraph "cuboid::TworzKorpus"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="cuboid::TworzKorpus",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Function that creates body of a drone."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="drone::TworzDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdrone.html#aba5623fe1bac75b7d0b2382178090e6d",tooltip="Function that creates all parts of a drone."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="drone::PrzemiescDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdrone.html#a1dc016c21658e0519838b3c0ee754daf",tooltip="Function responsible for drone's movement."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="scene::AnimacjaLotuDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classscene.html#ac40af55578dba20accd5dff6875aa613",tooltip="Function responsible for drone's flight animation."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",tooltip="Main function where all the magic happens :))"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="drone::TworzDrona2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdrone.html#a135ad9f645af6bfecd2840461e5dd770",tooltip=" "];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

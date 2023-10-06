@@ -1,0 +1,12 @@
+digraph "scene::changeNumbers1"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="scene::changeNumbers1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Function which counts how much a X coordinate needs to change."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="scene::DodajTrasePrzelotu",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classscene.html#a11b0413539c9b1ccd7a4d38c454402e5",tooltip="Function that creates a fly-way of a drone."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",tooltip="Main function where all the magic happens :))"];
+}
