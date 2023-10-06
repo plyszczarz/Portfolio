@@ -1,0 +1,5 @@
+<map id="drone" name="drone">
+<area shape="rect" id="node1" title="Class drone." alt="" coords="12,80,71,107"/>
+<area shape="rect" id="node3" href="$classscene.html" title="Class scene that inhertis drone class." alt="" coords="11,155,71,181"/>
+<area shape="rect" id="node2" href="$class_s_object.html" title="Class which defines scene objects." alt="" coords="5,5,77,32"/>
+</map>

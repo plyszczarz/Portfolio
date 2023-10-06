@@ -1,0 +1,12 @@
+<map id="drone::AdditionalHorizontalFlight" name="drone::AdditionalHorizontalFlight">
+<area shape="rect" id="node1" title="Function that makes drone fly a little bit more :))" alt="" coords="5,49,205,90"/>
+<area shape="rect" id="node2" href="$classdrone.html#a1dc016c21658e0519838b3c0ee754daf" title="Function responsible for drone&#39;s movement." alt="" coords="253,56,427,83"/>
+<area shape="rect" id="node3" href="$classdrone.html#aba5623fe1bac75b7d0b2382178090e6d" title="Function that creates all parts of a drone." alt="" coords="479,5,621,32"/>
+<area shape="rect" id="node5" href="$classsolid.html#a1b906608160300ab398231c3194b9c10" title="Function resposible for proper inter&#45;file savenigs." alt="" coords="876,74,1143,115"/>
+<area shape="rect" id="node10" href="$classdrone.html#a135ad9f645af6bfecd2840461e5dd770" title=" " alt="" coords="475,56,625,83"/>
+<area shape="rect" id="node4" href="$classcuboid.html#a58d8a6ea6dfa7f4b30eecf3d26cef875" title="Function that creates body of a drone." alt="" coords="673,56,828,83"/>
+<area shape="rect" id="node6" href="$classsolid.html#aea0dd59903a371c3d277e013d27e467b" title="Function that saves transformed pionts to a file." alt="" coords="1191,74,1457,115"/>
+<area shape="rect" id="node7" href="$classsolid.html#a362fd944f44b271a035d1a773c0d8807" title="Function that change (truns and moves) a single point by given angle and translation." alt="" coords="1505,81,1645,108"/>
+<area shape="rect" id="node8" href="$classsolid.html#a1df6aa4cd4830083477bb65a0760a750" title="Function that change (turns) a single point coordinates by given angle." alt="" coords="1693,81,1791,108"/>
+<area shape="rect" id="node9" href="$classmatrix.html#a3c54b84198b67754aa9c65d534ddbc3f" title="Delkaracje funkcji." alt="" coords="1839,81,2013,108"/>
+</map>

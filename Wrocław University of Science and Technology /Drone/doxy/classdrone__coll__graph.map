@@ -1,0 +1,9 @@
+<map id="drone" name="drone">
+<area shape="rect" id="node1" title="Class drone." alt="" coords="176,171,235,197"/>
+<area shape="rect" id="node2" href="$class_s_object.html" title="Class which defines scene objects." alt="" coords="5,81,77,108"/>
+<area shape="rect" id="node3" href="$class_vector.html" title=" " alt="" coords="101,81,203,108"/>
+<area shape="rect" id="node4" href="$class_count.html" title=" " alt="" coords="46,5,258,32"/>
+<area shape="rect" id="node5" href="$classcuboid.html" title="Class Cuboid that inherit a &quot;solid&quot; class." alt="" coords="227,81,293,108"/>
+<area shape="rect" id="node6" href="$classsolid.html" title="Class solid." alt="" coords="303,5,356,32"/>
+<area shape="rect" id="node7" href="$classprism6.html" title="Class prism6 that inherits solid class." alt="" coords="317,81,384,108"/>
+</map>

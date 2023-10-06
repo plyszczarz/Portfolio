@@ -1,0 +1,5 @@
+<map id="ridge" name="ridge">
+<area shape="rect" id="node1" title="Class of obstacle &quot;RidgeHill&quot;." alt="" coords="47,80,102,107"/>
+<area shape="rect" id="node2" href="$classsolid.html" title="Class solid." alt="" coords="5,5,59,32"/>
+<area shape="rect" id="node3" href="$class_s_object.html" title="Class which defines scene objects." alt="" coords="83,5,155,32"/>
+</map>

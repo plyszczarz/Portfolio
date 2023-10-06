@@ -1,0 +1,9 @@
+<map id="drone::TworzDrona2" name="drone::TworzDrona2">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,156,39"/>
+<area shape="rect" id="node2" href="$classcuboid.html#a58d8a6ea6dfa7f4b30eecf3d26cef875" title="Function that creates body of a drone." alt="" coords="204,13,359,39"/>
+<area shape="rect" id="node3" href="$classsolid.html#a1b906608160300ab398231c3194b9c10" title="Function resposible for proper inter&#45;file savenigs." alt="" coords="407,5,673,47"/>
+<area shape="rect" id="node4" href="$classsolid.html#aea0dd59903a371c3d277e013d27e467b" title="Function that saves transformed pionts to a file." alt="" coords="721,5,988,47"/>
+<area shape="rect" id="node5" href="$classsolid.html#a362fd944f44b271a035d1a773c0d8807" title="Function that change (truns and moves) a single point by given angle and translation." alt="" coords="1036,13,1176,39"/>
+<area shape="rect" id="node6" href="$classsolid.html#a1df6aa4cd4830083477bb65a0760a750" title="Function that change (turns) a single point coordinates by given angle." alt="" coords="1224,13,1321,39"/>
+<area shape="rect" id="node7" href="$classmatrix.html#a3c54b84198b67754aa9c65d534ddbc3f" title="Delkaracje funkcji." alt="" coords="1369,13,1544,39"/>
+</map>

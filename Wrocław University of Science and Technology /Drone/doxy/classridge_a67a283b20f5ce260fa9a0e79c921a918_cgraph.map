@@ -1,0 +1,4 @@
+<map id="ridge::CreateHillRRR" name="ridge::CreateHillRRR">
+<area shape="rect" id="node1" title="Function that creates a specific obsticle called ridge hill,." alt="" coords="5,13,160,39"/>
+<area shape="rect" id="node2" href="$classridge.html#a9a9193d8101a633cd0a5f9ac64dddbcd" title="Function which transforms coordinates of a single point due to given scale and translation." alt="" coords="208,5,351,47"/>
+</map>

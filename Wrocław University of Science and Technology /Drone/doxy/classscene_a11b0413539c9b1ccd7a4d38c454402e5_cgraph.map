@@ -1,0 +1,7 @@
+<map id="scene::DodajTrasePrzelotu" name="scene::DodajTrasePrzelotu">
+<area shape="rect" id="node1" title="Function that creates a fly&#45;way of a drone." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node2" href="$classscene.html#a46713fe7b42a37f6422f338eb42ee493" title="Function which counts how much a X coordinate needs to change." alt="" coords="247,5,429,32"/>
+<area shape="rect" id="node3" href="$classscene.html#a9572129ac87ef85e58fd93f84074e359" title="Function which counts how much a Y coordinate needs to change." alt="" coords="247,56,429,83"/>
+<area shape="rect" id="node4" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#aa815ce8ec16e12fc246cf422e562869e" title="Dodaje nazwę pliku." alt="" coords="251,107,425,149"/>
+<area shape="rect" id="node5" href="$namespace_pz_g.html#ae1aad0c681853d7e47da4cdfccefc102" title="Funkcja pomocnicza, sprawdza czy plik o podanej nazwie jest na dysku." alt="" coords="477,115,604,141"/>
+</map>
