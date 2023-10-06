@@ -1,0 +1,12 @@
+<map id="PzG::LaczeDoGNUPlota::CzyWyswietlacKomunikaty" name="PzG::LaczeDoGNUPlota::CzyWyswietlacKomunikaty">
+<area shape="rect" id="node1" title="Udostępnia informację czy mają być wyświetlane informacje o błędach." alt="" coords="1463,108,1669,149"/>
+<area shape="rect" id="node2" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#ae5f907633699e898710cce4351193330" title="Wyświetla komunika błędu." alt="" coords="1241,108,1415,149"/>
+<area shape="rect" id="node3" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a5063854b7232a7951d120a21df63f2b7" title="Przesyła polecenie do gnuplota." alt="" coords="1018,108,1191,149"/>
+<area shape="rect" id="node9" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#aacb7ae45d283c741fb330f27b132e1a3" title="Generuje polecenie rysowania do pliku i przesyła je do gnuplota." alt="" coords="352,152,525,193"/>
+<area shape="rect" id="node10" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a1c7b9acc40de8d8bbb40fb0722512933" title="Uruchamia program gnuplot jako proces potomny." alt="" coords="1016,42,1193,84"/>
+<area shape="rect" id="node4" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a200ce6bdb980c314a9eafe49e8f2dd5e" title="Inicjalizuje połączenie z programem gnuplot." alt="" coords="795,42,968,84"/>
+<area shape="rect" id="node6" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota." alt="" coords="573,42,747,84"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,24,60,51"/>
+<area shape="rect" id="node7" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="108,24,304,51"/>
+<area shape="rect" id="node8" href="$classscene.html#a3384a11bbf9c266d4ed12648fe553115" title="Function that checks if drone coolide and makes additional flights and way&#45;drawings due to the result..." alt="" coords="359,50,518,76"/>
+</map>
