@@ -1,0 +1,24 @@
+digraph "solid::TworzOpisPrzetransformowanejBryly1"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="solid::TworzOpisPrzetransformowanej\lBryly1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Function that saves transformed pionts to a file."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="solid::TworzOpisPrzetransformowanej\lBryly2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsolid.html#a1b906608160300ab398231c3194b9c10",tooltip="Function resposible for proper inter-file savenigs."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="drone::PrzemiescDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdrone.html#a7d0603026305bc493db14789cfb64e51",tooltip="Function responsible for drone's movement."];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="scene::AnimacjaLotuDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classscene.html#aa8824875144d8d512437f83f1233be0a",tooltip="Function responsible for drone's flight animation."];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",tooltip="Main function where all the magic happens :))"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cuboid::TworzKorpus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcuboid.html#a58d8a6ea6dfa7f4b30eecf3d26cef875",tooltip="Function that creates body of a drone."];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="drone::TworzDrona",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classdrone.html#aba5623fe1bac75b7d0b2382178090e6d",tooltip="Function that creates all parts of a drone."];
+  Node7 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="prism6::TworzRotor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classprism6.html#a758ab33b9212ad016f7d6ed5f4a5fd40",tooltip="Function resposible for creating an airscrew of a drone."];
+}

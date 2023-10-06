@@ -1,0 +1,14 @@
+digraph "solid::TworzOpisPrzetransformowanejBryly1"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="solid::TworzOpisPrzetransformowanej\lBryly1",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Function that saves transformed pionts to a file."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="solid::ZmienPunkt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsolid.html#a362fd944f44b271a035d1a773c0d8807",tooltip="Function that change (truns and moves) a single point by given angle and translation."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="solid::Obrot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsolid.html#a1df6aa4cd4830083477bb65a0760a750",tooltip="Function that change (turns) a single point coordinates by given angle."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="matrix::przypisanieZZZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmatrix.html#a3c54b84198b67754aa9c65d534ddbc3f",tooltip="Delkaracje funkcji."];
+}
