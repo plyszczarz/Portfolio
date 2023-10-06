@@ -1,0 +1,4 @@
+<map id="tableLand::CreateHillTTT" name="tableLand::CreateHillTTT">
+<area shape="rect" id="node1" title="Function that creates a specific obsticle called table land,." alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node2" href="$classtable_land.html#a484f5164a7af6c316f5c4b011951edd8" title="Function which transforms coordinates of a single point due to given scale and translation." alt="" coords="236,5,395,47"/>
+</map>
