@@ -1,0 +1,4 @@
+<map id="sharp::CreateHillSSS" name="sharp::CreateHillSSS">
+<area shape="rect" id="node1" title="Function that creates a specific obsticle called sharp top hill,." alt="" coords="5,13,160,39"/>
+<area shape="rect" id="node2" href="$classsharp.html#a618c68201078c577a3fee5df466bc47b" title="Function which transforms coordinates of a single point due to given scale and translation." alt="" coords="208,5,355,47"/>
+</map>

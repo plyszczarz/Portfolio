@@ -1,0 +1,12 @@
+<map id="solid::TworzOpisPrzetransformowanejBryly1" name="solid::TworzOpisPrzetransformowanejBryly1">
+<area shape="rect" id="node1" title="Function that saves transformed pionts to a file." alt="" coords="1293,64,1560,105"/>
+<area shape="rect" id="node2" href="$classsolid.html#a1b906608160300ab398231c3194b9c10" title="Function resposible for proper inter&#45;file savenigs." alt="" coords="979,64,1245,105"/>
+<area shape="rect" id="node3" href="$classdrone.html#a1dc016c21658e0519838b3c0ee754daf" title="Function responsible for drone&#39;s movement." alt="" coords="356,71,529,98"/>
+<area shape="rect" id="node7" href="$classcuboid.html#a58d8a6ea6dfa7f4b30eecf3d26cef875" title="Function that creates body of a drone." alt="" coords="776,71,931,98"/>
+<area shape="rect" id="node10" href="$classprism6.html#a758ab33b9212ad016f7d6ed5f4a5fd40" title="Function resposible for creating an airscrew of a drone." alt="" coords="780,122,927,149"/>
+<area shape="rect" id="node4" href="$classdrone.html#a70f99bffa59d2d329a77ba7a4f6a2d37" title="Function that makes drone fly a little bit more :))" alt="" coords="108,5,308,47"/>
+<area shape="rect" id="node5" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="110,71,306,98"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,97,60,123"/>
+<area shape="rect" id="node8" href="$classdrone.html#aba5623fe1bac75b7d0b2382178090e6d" title="Function that creates all parts of a drone." alt="" coords="581,71,724,98"/>
+<area shape="rect" id="node9" href="$classdrone.html#a135ad9f645af6bfecd2840461e5dd770" title=" " alt="" coords="577,122,728,149"/>
+</map>

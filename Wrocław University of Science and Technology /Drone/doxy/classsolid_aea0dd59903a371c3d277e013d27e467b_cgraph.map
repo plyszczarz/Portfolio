@@ -1,0 +1,6 @@
+<map id="solid::TworzOpisPrzetransformowanejBryly1" name="solid::TworzOpisPrzetransformowanejBryly1">
+<area shape="rect" id="node1" title="Function that saves transformed pionts to a file." alt="" coords="5,5,272,47"/>
+<area shape="rect" id="node2" href="$classsolid.html#a362fd944f44b271a035d1a773c0d8807" title="Function that change (truns and moves) a single point by given angle and translation." alt="" coords="320,13,460,39"/>
+<area shape="rect" id="node3" href="$classsolid.html#a1df6aa4cd4830083477bb65a0760a750" title="Function that change (turns) a single point coordinates by given angle." alt="" coords="508,13,605,39"/>
+<area shape="rect" id="node4" href="$classmatrix.html#a3c54b84198b67754aa9c65d534ddbc3f" title="Delkaracje funkcji." alt="" coords="653,13,828,39"/>
+</map>

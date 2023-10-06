@@ -1,0 +1,5 @@
+<map id="solid::ZmienPunkt" name="solid::ZmienPunkt">
+<area shape="rect" id="node1" title="Function that change (truns and moves) a single point by given angle and translation." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$classsolid.html#a1df6aa4cd4830083477bb65a0760a750" title="Function that change (turns) a single point coordinates by given angle." alt="" coords="193,5,291,32"/>
+<area shape="rect" id="node3" href="$classmatrix.html#a3c54b84198b67754aa9c65d534ddbc3f" title="Delkaracje funkcji." alt="" coords="339,5,513,32"/>
+</map>

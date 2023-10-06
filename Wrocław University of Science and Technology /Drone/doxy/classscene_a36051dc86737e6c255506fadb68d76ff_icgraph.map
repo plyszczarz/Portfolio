@@ -1,0 +1,6 @@
+<map id="scene::IsColliding" name="scene::IsColliding">
+<area shape="rect" id="node1" title="Function that deletes choosen drone from obstacle list, gets it&#39;s location and scale and calculates i..." alt="" coords="559,5,695,32"/>
+<area shape="rect" id="node2" href="$classscene.html#a3384a11bbf9c266d4ed12648fe553115" title="Function that checks if drone coolide and makes additional flights and way&#45;drawings due to the result..." alt="" coords="352,5,511,32"/>
+<area shape="rect" id="node3" href="$classscene.html#ac40af55578dba20accd5dff6875aa613" title="Function responsible for drone&#39;s flight animation." alt="" coords="108,5,304,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Main function where all the magic happens :))" alt="" coords="5,5,60,32"/>
+</map>
