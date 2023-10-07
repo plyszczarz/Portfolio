@@ -1,9 +1,20 @@
-In this directory you will find a program that operates 2 flying drones on a scene.
+FOLDER NAME * --- Drone
 
-This program displays two drones on a scene, you are able to fly them in any direction and distance you want.
-Additionaly you are able to add obstacles on a scene, which flying drone will not hit but instead avoid and land somewhere else
+Overview: 
+This directory contains a program that displays two drones on a scene with ability to fly them in any direction and distance desired.
+Additionaly creating obstacles on a scene is possible. Code doesn't allow drones to hit or land on a obstacles but instead avoid and land somewhere else
+
+Graphic app used is GnuPlot.
+
+Important contents:
+- prj - directory with source code
+- html - directory with documentation
+
+Please find attached pdf with examples.
 
 Please find a documentation in Doxygen here:
 Drone/html/index.html
 
-Please find a sample movement of drones in pdf in this directory.
+Author: Paweł Łyszczarz
+
+All rights reserved
