@@ -1,4 +1,4 @@
-* Folder name * --- Motorcycle GPS module operating library 
+FOLDER NAME * --- Motorcycle GPS module operating library 
 
 Overview:
 This directory contains C++ code designed to simplify read data from Adafriut Ultimate GPS and parse it into specific parameters.
