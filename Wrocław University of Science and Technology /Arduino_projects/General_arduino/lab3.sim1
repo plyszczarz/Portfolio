@@ -1,0 +1,115 @@
+<circuit version="1.0.0-RC3" rev="1148" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="1" >
+
+<item itemtype="Subcircuit" CircId="Nano-1" mainComp="false" Show_id="true" Show_Val="false" Pos="616,528" rotation="0" hflip="1" vflip="1" label="Nano-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="false">
+<mainCompProps itemtype="MCU" CircId="1_m328 TQFP-269" mainComp="true" Show_id="false" Show_Val="false" Pos="20,20" rotation="0" hflip="1" vflip="1" label="1_m328 TQFP-269" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Frequency="16 MHz" Program="../Zad5/.pio/build/nanoatmega328/firmware.hex" Auto_Load="false" Rst_enabled="true" Ext_Osc="true" Wdt_enabled="false" />
+</item>
+
+<item itemtype="LedBar" CircId="LedBar-2" mainComp="false" Show_id="false" Show_Val="false" Pos="436,612" rotation="-180" hflip="1" vflip="1" label="LedBar-2" idLabPos="-16,-44" labelrot="0" valLabPos="-16,-56" valLabRot="0" Size="2 Leds" Color="Purple" Grounded="false" Threshold="2.4 V" MaxCurrent="0.03 A" Resistance="0.6 Ω" />
+
+<item itemtype="ResistorDip" CircId="ResistorDip-3" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="488,652" rotation="0" hflip="1" vflip="1" label="ResistorDip-3" idLabPos="-24,-40" labelrot="0" valLabPos="5,-26" valLabRot="90" Resistance="100 Ω" Size="2 Resist." />
+
+<item itemtype="Ground" CircId="Ground-5" mainComp="false" Show_id="false" Show_Val="false" Pos="368,704" rotation="0" hflip="1" vflip="1" label="Ground-5" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="LedRgb" CircId="LedRgb-54" mainComp="false" Show_id="false" Show_Val="false" Pos="500,680" rotation="-180" hflip="1" vflip="1" label="LedRgb-54" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" CommonCathode="false" Threshold_R="2.4 V" MaxCurrent_R="0.03 A" Resistance_R="0.6 Ω" Threshold_G="3.5 V" MaxCurrent_G="0.03 A" Resistance_G="0.6 Ω" Threshold_B="3.5 V" MaxCurrent_B="0.03 A" Resistance_B="0.6 Ω" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-66" mainComp="false" Show_id="false" Show_Val="false" Pos="444,720" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-66" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="ResistorDip" CircId="ResistorDip-68" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="548,696" rotation="0" hflip="1" vflip="1" label="ResistorDip-68" idLabPos="-24,-40" labelrot="0" valLabPos="5,-26" valLabRot="90" Resistance="100 Ω" Size="3 Resist." />
+
+<item itemtype="Potentiometer" CircId="Potentiometer-83" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="820,576" rotation="-270" hflip="1" vflip="1" label="Potentiometer-83" idLabPos="-16,-40" labelrot="0" valLabPos="15,-20" valLabRot="0" Resistance="1000 Ω" Value_Ohm="547 Ω" />
+
+<item itemtype="LDR" CircId="LDR-84" mainComp="false" Show_id="false" Show_Val="false" Pos="820,676" rotation="-90" hflip="1" vflip="1" label="LDR-84" idLabPos="-16,-24" labelrot="0" valLabPos="-16,30" valLabRot="0" Lux="247 Lux" Min_Lux="1e-12 Lux" Max_Lux="1000 Lux" Dial_Step="0 Lux" Gamma="0.8582" R1="127410 Ω" />
+
+<item itemtype="Resistor" CircId="Resistor-85" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="780,652" rotation="0" hflip="1" vflip="1" label="Resistor-85" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="10 kΩ" />
+
+<item itemtype="Resistor" CircId="Resistor-86" mainComp="false" ShowProp="Resistance" Show_id="false" Show_Val="true" Pos="820,628" rotation="-270" hflip="1" vflip="1" label="Resistor-86" idLabPos="-16,-24" labelrot="0" valLabPos="-16,6" valLabRot="0" Resistance="10 kΩ" />
+
+<item itemtype="I2CToParallel" CircId="I2CToParallel-101" mainComp="false" Show_id="false" Show_Val="false" Pos="712,484" rotation="-90" hflip="1" vflip="1" label="I2CToParallel-101" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" Control_Code="39" Frequency="100 KHz" />
+
+<item itemtype="Hd44780" CircId="Hd44780-103" mainComp="false" Show_id="true" Show_Val="false" Pos="648,432" rotation="0" hflip="1" vflip="1" label="Hd44780-103" idLabPos="70,-82" labelrot="0" valLabPos="-16,20" valLabRot="0" Rows="2 _Rows" Cols="16 _Columns" />
+
+<item itemtype="KY040" CircId="KY040-113" mainComp="false" Show_id="false" Show_Val="false" Pos="536,492" rotation="90" hflip="1" vflip="1" label="KY040-113" idLabPos="-34,20" labelrot="-90" valLabPos="-16,20" valLabRot="0" Steps="5 Steps" />
+
+<item itemtype="Node" CircId="Node-22" mainComp="false" Pos="368,636" />
+
+<item itemtype="Node" CircId="Node-91" mainComp="false" Pos="820,600" />
+
+<item itemtype="Node" CircId="Node-96" mainComp="false" Pos="820,652" />
+
+<item itemtype="Node" CircId="Node-99" mainComp="false" Pos="820,556" />
+
+<item itemtype="Connector" uid="connector-114" startpinid="Nano-1-3" endpinid="ResistorDip-3-resistor0-ePin1" pointList="624,584,512,584,512,628,504,628" />
+
+<item itemtype="Connector" uid="connector-115" startpinid="Nano-1-4" endpinid="ResistorDip-3-resistor1-ePin3" pointList="624,592,520,592,520,636,504,636" />
+
+<item itemtype="Connector" uid="connector-116" startpinid="ResistorDip-3-resistor0-ePin0" endpinid="LedBar-2-led1-pinP" pointList="472,628,452,628" />
+
+<item itemtype="Connector" uid="connector-117" startpinid="ResistorDip-3-resistor1-ePin2" endpinid="LedBar-2-led0-pinP" pointList="472,636,452,636" />
+
+<item itemtype="Connector" uid="connector-118" startpinid="LedBar-2-led0-pinN" endpinid="Node-22-0" pointList="420,636,368,636" />
+
+<item itemtype="Connector" uid="connector-119" startpinid="LedBar-2-led1-pinN" endpinid="Node-22-1" pointList="420,628,368,628,368,636" />
+
+<item itemtype="Connector" uid="connector-120" startpinid="Node-22-2" endpinid="Ground-5-Gnd" pointList="368,636,368,688" />
+
+<item itemtype="Connector" uid="connector-121" startpinid="Fixed Voltage-66-outnod" endpinid="LedRgb-54-Pin3" pointList="460,720,460,680,484,680" />
+
+<item itemtype="Connector" uid="connector-122" startpinid="ResistorDip-68-resistor0-ePin0" endpinid="LedRgb-54-Pin2" pointList="532,672,516,672" />
+
+<item itemtype="Connector" uid="connector-123" startpinid="ResistorDip-68-resistor1-ePin2" endpinid="LedRgb-54-Pin1" pointList="532,680,516,680" />
+
+<item itemtype="Connector" uid="connector-124" startpinid="ResistorDip-68-resistor2-ePin4" endpinid="LedRgb-54-Pin0" pointList="532,688,516,688" />
+
+<item itemtype="Connector" uid="connector-125" startpinid="Nano-1-11" endpinid="ResistorDip-68-resistor2-ePin5" pointList="624,648,600,648,600,688,564,688" />
+
+<item itemtype="Connector" uid="connector-126" startpinid="Nano-1-10" endpinid="ResistorDip-68-resistor1-ePin3" pointList="624,640,592,640,592,680,564,680" />
+
+<item itemtype="Connector" uid="connector-127" startpinid="Nano-1-9" endpinid="ResistorDip-68-resistor0-ePin1" pointList="624,632,584,632,584,672,564,672" />
+
+<item itemtype="Connector" uid="connector-128" startpinid="Potentiometer-83-PinM" endpinid="Nano-1-A1" pointList="804,576,692,576,692,624,672,624" />
+
+<item itemtype="Connector" uid="connector-129" startpinid="LDR-84-rPin" endpinid="Node-96-0" pointList="820,660,820,652" />
+
+<item itemtype="Connector" uid="connector-130" startpinid="Resistor-86-lPin" endpinid="Node-91-0" pointList="820,612,820,600" />
+
+<item itemtype="Connector" uid="connector-131" startpinid="Potentiometer-83-PinB" endpinid="Node-91-1" pointList="820,592,820,600" />
+
+<item itemtype="Connector" uid="connector-132" startpinid="Node-91-2" endpinid="Nano-1-5V0" pointList="820,600,704,600,704,568,672,568" />
+
+<item itemtype="Connector" uid="connector-133" startpinid="Potentiometer-83-PinA" endpinid="Node-99-0" pointList="820,560,820,556" />
+
+<item itemtype="Connector" uid="connector-134" startpinid="Resistor-85-lPin" endpinid="Nano-1-A0" pointList="764,652,736,652,736,632,672,632" />
+
+<item itemtype="Connector" uid="connector-135" startpinid="Resistor-85-rPin" endpinid="Node-96-1" pointList="796,652,820,652" />
+
+<item itemtype="Connector" uid="connector-136" startpinid="Node-96-2" endpinid="Resistor-86-rPin" pointList="820,652,820,644" />
+
+<item itemtype="Connector" uid="connector-137" startpinid="LDR-84-lPin" endpinid="Node-99-1" pointList="820,692,860,692,860,556,820,556" />
+
+<item itemtype="Connector" uid="connector-138" startpinid="Node-99-2" endpinid="Nano-1-GND1" pointList="820,556,672,556,672,552" />
+
+<item itemtype="Connector" uid="connector-139" startpinid="I2CToParallel-101-in1" endpinid="Nano-1-A5" pointList="704,508,704,548,724,548,724,592,672,592" />
+
+<item itemtype="Connector" uid="connector-140" startpinid="I2CToParallel-101-in0" endpinid="Nano-1-A4" pointList="696,508,696,600,672,600" />
+
+<item itemtype="Connector" uid="connector-141" startpinid="I2CToParallel-101-out7" endpinid="Hd44780-103-dataPin7" pointList="744,460,744,440" />
+
+<item itemtype="Connector" uid="connector-142" startpinid="I2CToParallel-101-out6" endpinid="Hd44780-103-dataPin6" pointList="736,460,736,440" />
+
+<item itemtype="Connector" uid="connector-143" startpinid="I2CToParallel-101-out5" endpinid="Hd44780-103-dataPin5" pointList="728,460,728,440" />
+
+<item itemtype="Connector" uid="connector-144" startpinid="I2CToParallel-101-out4" endpinid="Hd44780-103-dataPin4" pointList="720,460,720,440" />
+
+<item itemtype="Connector" uid="connector-145" startpinid="I2CToParallel-101-out2" endpinid="Hd44780-103-PinEn" pointList="704,460,704,452,680,452,680,440" />
+
+<item itemtype="Connector" uid="connector-146" startpinid="I2CToParallel-101-out1" endpinid="Hd44780-103-PinRW" pointList="696,460,696,456,672,456,672,440" />
+
+<item itemtype="Connector" uid="connector-147" startpinid="I2CToParallel-101-out0" endpinid="Hd44780-103-PinRS" pointList="688,460,664,460,664,440" />
+
+<item itemtype="Connector" uid="connector-148" startpinid="KY040-113-clk" endpinid="Nano-1-6" pointList="500,496,468,496,468,596,600,596,600,608,624,608" />
+
+<item itemtype="Connector" uid="connector-149" startpinid="KY040-113-dt" endpinid="Nano-1-7" pointList="500,488,460,488,460,604,592,604,592,616,624,616" />
+
+<item itemtype="Connector" uid="connector-150" startpinid="KY040-113-sw" endpinid="Nano-1-8" pointList="500,480,452,480,452,612,584,612,584,624,624,624" />
+
+</circuit>
