@@ -11,6 +11,8 @@ Contents:
 Usage:
 Code was runned on module and worked as desired.
 
+Please find attached pdf with examples.
+
 Author:
 Paweł Łyszczarz
 
