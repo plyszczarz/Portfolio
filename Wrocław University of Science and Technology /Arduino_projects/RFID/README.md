@@ -1,7 +1,7 @@
 FOLDER NAME * --- RFID
 
 Overview: 
-This directory contains Arduino code to operate RFID cards, servo-mechanizm and administrator menu simulation multi-workers company entry pass
+This directory contains Arduino code to operate RFID cards, servo-mechanizm and administrator menu simulating multi-workers company entry pass
 
 Important contents:
 - RFID - directory with source code
